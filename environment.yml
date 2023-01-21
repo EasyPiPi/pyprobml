@@ -1,0 +1,24 @@
+# The name of the environment
+name: pyprob
+# The relevent channels
+channels:
+- conda-forge
+dependencies:
+# Python
+- jaxlib
+- jax
+- jupyter
+- jupyterlab
+- matplotlib
+- numpy
+- requests
+- scipy
+- seaborn
+- scikit-learn
+- h5py
+- pandas
+- graphviz
+- arviz
+- pyyaml
+- tensorflow
+- keras
