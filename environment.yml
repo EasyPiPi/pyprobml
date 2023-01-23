@@ -16,6 +16,8 @@ dependencies:
 - scipy
 - seaborn
 - scikit-learn
+- spyder>=5.3
+- spyder-notebook
 - h5py
 - pandas
 - graphviz
